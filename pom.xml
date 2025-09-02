@@ -30,7 +30,7 @@
         <dependency>
             <groupId>io.github.sandydunlop</groupId>
             <artifactId>markista</artifactId>
-            <version>0.1.21</version>
+            <version>0.2.0</version>
         </dependency>
     </dependencies>
 
