@@ -30,7 +30,7 @@
         <dependency>
             <groupId>io.github.sandydunlop</groupId>
             <artifactId>markista</artifactId>
-            <version>0.2.0</version>
+            <version>0.3.0</version>
         </dependency>
     </dependencies>
 
@@ -55,7 +55,6 @@
                     <docTitle>${project.name} API Documentation</docTitle>
                     <additionalparam>-doclet io.github.sandydunlop.markista.doclet.MarkdownDoclet</additionalparam>
                     <additionalparam>-private</additionalparam>
-                    <additionalparam>-link</additionalparam>
                     <additionalparam>-verbose</additionalparam>
                 </configuration>
             </plugin>
